@@ -24,9 +24,21 @@ This project aims to automate the extraction of project data from the Himachal P
 
 ## Technologies Used
 
+### Languages:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium WebDriver](https://img.shields.io/badge/-selenium_web_driver-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Libraries:
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Frameworks:
+
+![Selenium WebDriver](https://img.shields.io/badge/-selenium_web_driver-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Techniques Used
 
